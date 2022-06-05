@@ -26,3 +26,5 @@ Choisissez un template que vous aimez parmi ceux visibles ci-dessous et cliquez 
 
 ### ![Basic](https://github.com/Slawk/TailwindLogin/blob/main/basic.html) 
 ![basic](https://github.com/Slawk/TailwindLogin/blob/main/images/basic.png?raw=true)
+
+`D'autres templates arriveront dans le futur`
