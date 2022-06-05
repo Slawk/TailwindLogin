@@ -24,5 +24,5 @@ Choisissez un template que vous aimez parmi ceux visibles ci-dessous et cliquez 
 
 ## Templates list / Liste de templates
 
-### Basic 
+### ![Basic](https://github.com/Slawk/TailwindLogin/blob/main/basic.html) 
 ![basic](https://github.com/Slawk/TailwindLogin/blob/main/images/basic.png?raw=true)
